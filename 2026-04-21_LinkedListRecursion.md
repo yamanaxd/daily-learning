@@ -1,0 +1,2 @@
+LinkedListをloopを使わずrecursionを使って書いた
+昨日授業で扱ったbinary treeを復習した
